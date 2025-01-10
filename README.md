@@ -28,7 +28,7 @@ Fase 3 do Programa Oracle ONE - Especialização Front-End
 
 ## Deploy no Github
 
-Link da page: https://ldickmann.github.io/
+Link da page: https://front-end-g7-1w5l9le63-marceloifpes-projects.vercel.app/
 
 ### Badge Challenge
 
