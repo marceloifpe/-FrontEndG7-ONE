@@ -29,7 +29,7 @@
 
 ## Badge do Challenge
 
-## ![badge do desafio AluraGeek - Programa ONE](imagens-Insignia-Alura/badge-AluraGeek.png)
+## ![badge do desafio AluraGeek - Programa ONE](https://github.com/marceloifpe/-FrontEndG7-ONE/blob/main/imagens-Insignia-Alura/Badge-AluraGeek.png)
 
 ### Minhas redes sociais
 
