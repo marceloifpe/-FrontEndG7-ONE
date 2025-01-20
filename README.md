@@ -25,6 +25,11 @@
 
 #### Challenges da Especialização:
 - **Challenge-1: Praticando Front End - Challenge Portfólio**
+- **Challenge-2: Praticando Front End - Challenge AluraGeek**
+
+## Badge do Challenge
+
+## ![badge do desafio AluraGeek - Programa ONE](badge-AluraGeek.png)
 
 ### Minhas redes sociais
 
