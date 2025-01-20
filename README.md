@@ -27,7 +27,7 @@
 - **Challenge-1: Praticando Front End - Challenge Portfólio**
 - **Challenge-2: Praticando Front End - Challenge AluraGeek**
 
-## Badge do Challenge
+## Badge do Challenge AluraGeek
 
 ## ![badge do desafio AluraGeek - Programa ONE](https://github.com/marceloifpe/-FrontEndG7-ONE/blob/main/imagens-Insignia-Alura/Badge-AluraGeek.png)
 
