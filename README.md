@@ -29,7 +29,7 @@
 
 ## Badge do Challenge
 
-## ![badge do desafio AluraGeek - Programa ONE](badge-AluraGeek.png)
+## ![badge do desafio AluraGeek - Programa ONE](imagens-Insignia-Alura/badge-AluraGeek.png)
 
 ### Minhas redes sociais
 
