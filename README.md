@@ -25,6 +25,7 @@
 
 #### Challenges da Especialização:
 - **Challenge-1: Praticando Front End - Challenge Portfólio**
+- **Challenge-2: Praticando Front End - Challenge AluraGeek**
 
 ### Minhas redes sociais
 
