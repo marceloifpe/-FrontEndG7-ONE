@@ -27,6 +27,10 @@
 - **Challenge-1: Praticando Front End - Challenge Portfólio**
 - **Challenge-2: Praticando Front End - Challenge AluraGeek**
 
+## Badge do Challenge
+
+## ![badge do desafio AluraGeek - Programa ONE](badge-AluraGeek.png)
+
 ### Minhas redes sociais
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-3b0692195/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marceloaugusto5494/)
